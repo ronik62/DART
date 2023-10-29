@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "ex",
+            "request": "launch",
+            "mainClass": "ex",
+            "projectName": "dart_a7cc4cb9"
+        },
+        {
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart"
